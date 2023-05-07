@@ -1,5 +1,8 @@
 # Time Series Forecasting And Analysis Of Store Sales Of Corporation Favorita Products
 
+![Big Dataaaa](https://user-images.githubusercontent.com/115732734/236700621-5a179586-48c4-4640-b1f2-d979dd7ec24d.gif)
+
+
 ## Time Series Forecasting And Analysis Of Store Sales Of Corporation Favorita Products-Regression Findings
 
 ### Description: 
@@ -11,6 +14,8 @@ The objective is to create a model that can properly forecast future sales using
 We will use sales forecasting to extrapolate future sales levels for a company using historical sales data because Favorita Corporation's sales over the past four years have generated a lot of data. Our intention is to support business managers in making forecasts about the future based on this information, which has been kept on file for a set period of time following the event or after it occurred.
 
 As part of this research, we will build models using historical analysis, formulate scientific hypotheses based on time-stamped historical data, and then utilize those models to make observations and direct strategic decision-making in the future. In order to enhance operations and ultimately sales, we would like to assist management at Favorita Corporation in gaining some insights from their data.
+
+![dataad](https://user-images.githubusercontent.com/115732734/236700772-aa89262a-eb8f-4607-be53-0cf7bdbd84aa.jpeg)
 
 
 # Methodology:
@@ -41,6 +46,8 @@ Hypothesis: The sales of the store are affected by various factors, such as the 
 Null Hypothesis: Some products have sold more than others in terms of revenue.
 
 Alternative Hypothesis: The retail company received an equal amount of revenue from each product.
+
+![data-analyticsss](https://user-images.githubusercontent.com/115732734/236700882-3bec3829-7039-4000-9d74-b15611877723.jpeg)
 
 # Research Questions:
 
