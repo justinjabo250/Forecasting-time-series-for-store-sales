@@ -1,4 +1,4 @@
-# Time-Series-Forecasting-And-Analysis-Of-Store-Sales-Of-Corporation-Favorita-Products
+# Time Series Forecasting And Analysis Of Store Sales Of Corporation Favorita Products
 
 ## Time Series Forecasting And Analysis Of Store Sales Of Corporation Favorita Products-Regression Findings
 
